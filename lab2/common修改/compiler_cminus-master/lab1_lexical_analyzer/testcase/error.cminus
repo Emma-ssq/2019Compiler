@@ -1,0 +1,9 @@
+int error(int i, int j){
+	int i;
+	int j;
+	char c ;
+	char* c_pointer;
+	
+	
+}
+
